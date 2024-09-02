@@ -1,4 +1,4 @@
-### Hello there, im Guilherme.
+### Hello there, im Guilherme. 👋
 ##
 
 - 📚 Currently I'm studying Analysis and systems development at UNIP.
