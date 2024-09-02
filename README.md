@@ -1,8 +1,10 @@
-### Hi! I'm Matheus, a novice fullstack developer
+### Hello there, im Guilherme.
 ##
-- Currently I'm studying Analysis and systems development at FIAP.
-- I'm more developed in the back-end area, so I have been studied to improve my Front-end projects. 
-- Contact me at: matheuschagas415@gmail.com
+
+📚 Currently I'm studying Analysis and systems development at UNIP.
+📍 Live in São Paulo - Brazil;
+🌱 Studying Systems Development;
+📧 Contact me at: guibsouza04@gmail.com
 ##
 
 <div>
