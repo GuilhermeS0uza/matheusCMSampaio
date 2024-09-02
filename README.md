@@ -3,8 +3,8 @@
 
 📚 Currently I'm studying Analysis and systems development at UNIP.
 📍 Live in São Paulo - Brazil;
-🌱 Studying Systems Development;
 📧 Contact me at: guibsouza04@gmail.com
+
 ##
 
 <div>
