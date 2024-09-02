@@ -1,9 +1,9 @@
 ### Hello there, im Guilherme.
 ##
 
-📚 Currently I'm studying Analysis and systems development at UNIP.
-📍 Live in São Paulo - Brazil;
-📧 Contact me at: guibsouza04@gmail.com
+- 📚 Currently I'm studying Analysis and systems development at UNIP.
+- 📍 Live in São Paulo - Brazil;
+- 📧 Contact me at: guibsouza04@gmail.com
 
 ##
 
